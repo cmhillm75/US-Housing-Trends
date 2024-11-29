@@ -22,4 +22,4 @@ Our jupyter notebook files are in the ipynb notebooks folder.
 
 Our final conclusions are summarized in the CensusProjectConclusion.docx file.
 
-The is is our class presentation <https://docs.google.com/presentation/d/1aKynBqvH5VyVP5gylNadU-X8CskAiNEz2-x_ItoP2ic/edit?usp=sharing>
+Our class presentation link is <https://docs.google.com/presentation/d/1aKynBqvH5VyVP5gylNadU-X8CskAiNEz2-x_ItoP2ic/edit?usp=sharing>
